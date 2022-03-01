@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act concerning the pre-emption and excise of salt. At Edinburgh, the 25. of November, 1673.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05174</idno>
+            <idno type="STC">Wing S1072</idno>
+            <idno type="STC">ESTC R183878</idno>
+            <idno type="EEBO-CITATION">52529445</idno>
+            <idno type="OCLC">ocm 52529445</idno>
+            <idno type="VID">178886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178886)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2774:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act concerning the pre-emption and excise of salt. At Edinburgh, the 25. of November, 1673.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Anderson, Printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salt industry and trade --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Salt --  Taxation --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178886:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>
+               <figure>
+                  <p>I<hi rend="sup">7</hi> R</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>ACT Concerning the Pre-emption and Exciſe of SALT.</head>
+            <opener>
+               <dateline>At EDINBURGH, <date>the 25. of <hi>November,</hi> 1673.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He King's moſt Excellent <hi>Majeſty,</hi> having, from the conſtant affection and care, which He hath alwayes had of the concerns of this His Ancient Kingdom, Reſolved further to gratifie His good Subjects, by ſuch Grants and publick Laws as He ſhall judge to conduce moſt for their good and advantage: And underſtanding by the proſecution and ma<g ref="char:EOLhyphen"/>nagement of the Pre-emption of Salt within this Kingdom; that the ſame hath been occaſion of trouble and burden to His Subjects. His <hi>Majeſty</hi> doth therefore Annull and <unclear>Diſcharge</unclear> the ſaid Pre-emption, and all Pre-emptions of Salt in time coming, and Declares the ſame, and all Acts, Commiſſions, or other warrands whatſomever authorizing it, to be, from and after the firſt day of <hi>December,</hi> this preſen<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> year, one thouſand ſix hundred and ſeventy three, vacated, void and <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull. And in order thereunto, His <hi>Majeſty,</hi> with advice and conſent of His Eſtates of Parliament, Doth hereby Reſcind and Annull, all and ſundry the Contracts, which in proſecution of this Pre-emption, were entred into by the Salt-maſters, and theſe perſons who, by warrand of the Commiſſioners of His <hi>Majeſties</hi> Theſaurie, contracted with them for the ſale of their Salt. And declares the ſaids Contracts and every of them to be void and null, after the ſaid firſt of <hi>December</hi> next to come: It is alwayes hereby declared, that theſe Contracts are to ſtand good to all intents and purpoſes therein contained, for all the Salt that is or ſhall be made before the ſaid firſt day of <hi>December.</hi> Likeas the King's <hi>Majeſty,</hi> for the en-couragement of the Manufacture of Salt, and for the fur<g ref="char:EOLhyphen"/>ther eaſe of His good Subjects, Doth hereby declare, all Salt made or to be made within this Kingdom, to be henceforth free from payment of Exciſe. And further, His <hi>Majeſtie,</hi> with advice foreſaid, allowes the im<g ref="char:EOLhyphen"/>portation of forraign Salt; And Statutes and Ordains, that ilk boll of forraign Salt of <hi>Linlithgov</hi> meaſure, ſhall pay fourty ſhillings <hi>Scots</hi> of Exciſe, whether the Salt be imployed on Fiſhes or not; and that ſecu<g ref="char:EOLhyphen"/>rity ſhall be given at the entrie of the Salt, that this Exciſe duty ſhall be compleatly payed within year and day after the importation thereof: And in conſideration of the Exemption which the forraign Salt em<g ref="char:EOLhyphen"/>ployed on Fiſhes had from Exciſe formerly; His <hi>Majeſty</hi> Declares, That all exported Fiſhes, whether Herring, Salmond, or others, ſhall be in time coming free from the paiment of Cuſtom.</p>
+            <p>Likeas, His <hi>Majeſty,</hi> with advice foreſaid, doth Inhibit and Diſcharge the Collectors and Farmers of Exciſe, upon any pretext, to give any eaſe or abatement of the ſaid fourty ſhillings of Exciſe impoſed upon ilk boll of Forraign Salt, under the pain of deprivation, if they be Collectors, and the loſs of the bneefit of their tack of the Exciſe, if they be Farmers; and of ſuch further puniſhment as the Lords of Exchequer ſhall think fit to inflict. And to the end it may be known, what quantities of Forraign Salt are truely entred, His <hi>Majeſty,</hi> with advice foreſaid, Ordains the ſeverall Collectors of Exciſe, from time to time, to make pa<g ref="char:EOLhyphen"/>tent to any of the Owners of Salt, or theſe having their Warrand, their Books, in ſo far as concerns the entrie of Forraign Salt. And if the Salt-owners, or their Factors, ſhall find any quantity conceal'd or im<g ref="char:EOLhyphen"/>bezel'd, or that there is abatement given of the duty, that are hereby warranded to purſue the tranſ<g ref="char:EOLhyphen"/>greſſours before the Lords of Exchequer: And ſhall have for their own uſe, the equal half of the ſeiſure-concealment, or abatement <hi>reſpective,</hi> which ſhall be ſo diſcovered by them. And His <hi>Majeſty</hi> doth, with advice foreſaid, Reſcind and Annull any former Acts of Parliament, or clauſes therein, relating to the Exciſe of Salt, which are inconſiſtent with, and prejudicial unto, the intent of this Act: And Declares, that ſo long as the Exciſe continues, this ſhall be the conſtant rule for regulating the Exciſe of Salt, and the cuſtom thereof to continue as it is in the Book of Rates.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Andrew Anderſon,</hi> Printer to the King's moſt Excellent MAJESTY, <hi>Anno</hi> 1673.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
